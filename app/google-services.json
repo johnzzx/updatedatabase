@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "184712428308",
+    "firebase_url": "https://newproject1-a7a99.firebaseio.com",
+    "project_id": "newproject1-a7a99",
+    "storage_bucket": "newproject1-a7a99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184712428308:android:75ed7a5d29b3acbd",
+        "android_client_info": {
+          "package_name": "com.example.john.updatedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184712428308-h829bf6k27tk3kjb4fu3obonocvsfh6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLa1L5lAjl7eDf3us90EgJQTzWgL5yFfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
